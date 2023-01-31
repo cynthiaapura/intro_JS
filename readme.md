@@ -1,5 +1,7 @@
 # Introduction au Java
 
+[Lien vers la page](https://cynthiaapura.github.io/intro_JS/)
+
 ## Installation de Babel, le compilateur JS
 
 ```CMD
